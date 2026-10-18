@@ -1,0 +1,322 @@
+[
+  {
+    "nome": "Toyota Corolla",
+    "preco": 145000,
+    "vendido": "não",
+    "nome_usuario": "",
+    "email": "",
+    "senha": ""
+  },
+  {
+    "nome": "Honda Civic",
+    "preco": 158000,
+    "vendido": "sim",
+    "nome_usuario": "Alexandre",
+    "email": "alexandre@gmail.com",
+    "senha": "Alexandre123"
+  },
+  {
+    "nome": "Volkswagen Gol",
+    "preco": 42000,
+    "vendido": "não",
+    "nome_usuario": "",
+    "email": "",
+    "senha": ""
+  },
+  {
+    "nome": "Chevrolet Onix",
+    "preco": 78000,
+    "vendido": "sim",
+    "nome_usuario": "Gabriel",
+    "email": "gabriel@gmail.com",
+    "senha": "Gabriel123"
+  },
+  {
+    "nome": "Hyundai HB20",
+    "preco": 82000,
+    "vendido": "não",
+    "nome_usuario": "",
+    "email": "",
+    "senha": ""
+  },
+  {
+    "nome": "Fiat Argo",
+    "preco": 76000,
+    "vendido": "sim",
+    "nome_usuario": "Ruan Duarte",
+    "email": "ruanad0406@gmail.com",
+    "senha": "123"
+  },
+  {
+    "nome": "Jeep Renegade",
+    "preco": 112000,
+    "vendido": "sim",
+    "nome_usuario": "Camila",
+    "email": "camila@gmail.com",
+    "senha": "Camila123"
+  },
+  {
+    "nome": "Jeep Compass",
+    "preco": 168000,
+    "vendido": "não",
+    "nome_usuario": "",
+    "email": "",
+    "senha": ""
+  },
+  {
+    "nome": "Nissan Kicks",
+    "preco": 118000,
+    "vendido": "não",
+    "nome_usuario": "",
+    "email": "",
+    "senha": ""
+  },
+  {
+    "nome": "Renault Kwid",
+    "preco": 59000,
+    "vendido": "sim",
+    "nome_usuario": "Pedro",
+    "email": "pedro@gmail.com",
+    "senha": "Pedro123"
+  },
+  {
+    "nome": "Fiat Uno",
+    "preco": 35000,
+    "vendido": "não",
+    "nome_usuario": "",
+    "email": "",
+    "senha": ""
+  },
+  {
+    "nome": "Ford Ka",
+    "preco": 39000,
+    "vendido": "sim",
+    "nome_usuario": "Felipe",
+    "email": "felipe@gmail.com",
+    "senha": "Felipe123"
+  },
+  {
+    "nome": "Chevrolet Tracker",
+    "preco": 132000,
+    "vendido": "não",
+    "nome_usuario": "",
+    "email": "",
+    "senha": ""
+  },
+  {
+    "nome": "Volkswagen T-Cross",
+    "preco": 139000,
+    "vendido": "sim",
+    "nome_usuario": "Bruno",
+    "email": "bruno@gmail.com",
+    "senha": "Bruno123"
+  },
+  {
+    "nome": "Volkswagen Polo",
+    "preco": 96000,
+    "vendido": "não",
+    "nome_usuario": "",
+    "email": "",
+    "senha": ""
+  },
+  {
+    "nome": "Fiat Mobi",
+    "preco": 62000,
+    "vendido": "não",
+    "nome_usuario": "",
+    "email": "",
+    "senha": ""
+  },
+  {
+    "nome": "Toyota Yaris",
+    "preco": 99000,
+    "vendido": "sim",
+    "nome_usuario": "Isabela",
+    "email": "isabela@gmail.com",
+    "senha": "Isabela123"
+  },
+  {
+    "nome": "Honda Fit",
+    "preco": 72000,
+    "vendido": "não",
+    "nome_usuario": "",
+    "email": "",
+    "senha": ""
+  },
+  {
+    "nome": "Hyundai Creta",
+    "preco": 144000,
+    "vendido": "não",
+    "nome_usuario": "",
+    "email": "",
+    "senha": ""
+  },
+  {
+    "nome": "Mitsubishi ASX",
+    "preco": 105000,
+    "vendido": "sim",
+    "nome_usuario": "Thiago",
+    "email": "thiago@gmail.com",
+    "senha": "Thiago123"
+  },
+  {
+    "nome": "Peugeot 208",
+    "preco": 88000,
+    "vendido": "não",
+    "nome_usuario": "",
+    "email": "",
+    "senha": ""
+  },
+  {
+    "nome": "Citroën C3",
+    "preco": 79000,
+    "vendido": "sim",
+    "nome_usuario": "Daniel",
+    "email": "daniel@gmail.com",
+    "senha": "Daniel123"
+  },
+  {
+    "nome": "Chevrolet Cruze",
+    "preco": 97000,
+    "vendido": "não",
+    "nome_usuario": "",
+    "email": "",
+    "senha": ""
+  },
+  {
+    "nome": "Ford Ecosport",
+    "preco": 68000,
+    "vendido": "não",
+    "nome_usuario": "",
+    "email": "",
+    "senha": ""
+  },
+  {
+    "nome": "Renault Duster",
+    "preco": 93000,
+    "vendido": "sim",
+    "nome_usuario": "Bianca",
+    "email": "bianca@gmail.com",
+    "senha": "Bianca123"
+  },
+  {
+    "nome": "Toyota Etios",
+    "preco": 61000,
+    "vendido": "não",
+    "nome_usuario": "",
+    "email": "",
+    "senha": ""
+  },
+  {
+    "nome": "Volkswagen Virtus",
+    "preco": 108000,
+    "vendido": "não",
+    "nome_usuario": "",
+    "email": "",
+    "senha": ""
+  },
+  {
+    "nome": "Fiat Pulse",
+    "preco": 104000,
+    "vendido": "sim",
+    "nome_usuario": "Leonardo",
+    "email": "leonardo@gmail.com",
+    "senha": "Leonardo123"
+  },
+  {
+    "nome": "Chevrolet Prisma",
+    "preco": 56000,
+    "vendido": "não",
+    "nome_usuario": "",
+    "email": "",
+    "senha": ""
+  },
+  {
+    "nome": "Honda HR-V",
+    "preco": 151000,
+    "vendido": "sim",
+    "nome_usuario": "André",
+    "email": "andré@gmail.com",
+    "senha": "André123"
+  },
+  {
+    "nome": "Nissan Versa",
+    "preco": 101000,
+    "vendido": "não",
+    "nome_usuario": "",
+    "email": "",
+    "senha": ""
+  },
+  {
+    "nome": "Kia Sportage",
+    "preco": 176000,
+    "vendido": "não",
+    "nome_usuario": "",
+    "email": "",
+    "senha": ""
+  },
+  {
+    "nome": "BMW 320i",
+    "preco": 245000,
+    "vendido": "sim",
+    "nome_usuario": "Sofia",
+    "email": "sofia@gmail.com",
+    "senha": "Sofia123"
+  },
+  {
+    "nome": "Mercedes-Benz Classe A",
+    "preco": 218000,
+    "vendido": "não",
+    "nome_usuario": "",
+    "email": "",
+    "senha": ""
+  },
+  {
+    "nome": "Audi A3",
+    "preco": 205000,
+    "vendido": "não",
+    "nome_usuario": "",
+    "email": "",
+    "senha": ""
+  },
+  {
+    "nome": "Volvo XC40",
+    "preco": 268000,
+    "vendido": "sim",
+    "nome_usuario": "Henrique",
+    "email": "henrique@gmail.com",
+    "senha": "Henrique123"
+  },
+  {
+    "nome": "Ram Rampage",
+    "preco": 230000,
+    "vendido": "sim",
+    "nome_usuario": "Ruan Duarte",
+    "email": "ruanad0406@gmail.com",
+    "senha": "123"
+  },
+  {
+    "nome": "Chevrolet S10",
+    "preco": 189000,
+    "vendido": "sim",
+    "nome_usuario": "Caio",
+    "email": "caio@gmail.com",
+    "senha": "Caio123"
+  },
+  {
+    "nome": "Toyota Hilux",
+    "preco": 225000,
+    "vendido": "não",
+    "nome_usuario": "",
+    "email": "",
+    "senha": ""
+  },
+  {
+    "nome": "Ford Ranger",
+    "preco": 212000,
+    "vendido": "não",
+    "nome_usuario": "",
+    "email": "",
+    "senha": ""
+  }
+]
